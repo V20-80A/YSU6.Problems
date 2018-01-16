@@ -1,3 +1,5 @@
+// Solution to the problem 		https://open.kattis.com/problems/substitution
+
 #include <vector>
 #include <iostream>
 
