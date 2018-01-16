@@ -1,3 +1,5 @@
+// Solution to the problem 		https://open.kattis.com/problems/exponial
+
 #include <iostream>
 #include <cstdio>
 #include <queue>
