@@ -1,4 +1,5 @@
 // Solution to the problem 		https://open.kattis.com/problems/exponial
+// Kattis judge Exponial
 
 #include <iostream>
 #include <cstdio>
